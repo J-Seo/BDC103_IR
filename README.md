@@ -18,6 +18,10 @@ email={wolhalang@gmail.com}}
 
 실습 2강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11mqMXT65dgYdZq_Nqo7DmGZeHwmz9_va)
 
+실습 3강: 추후 공개
+
+실습 4강: 추후 
+
 ### 실습 계획표
 
 |**실습 계획표(예정)**|
