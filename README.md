@@ -14,11 +14,9 @@ email={wolhalang@gmail.com}}
 ```
 ### Colab으로 열기
 
-실습 1강: [![Open In Colab](https://colab.research.google.com/drive/1-gY9WHIAG5CBD2euxbKPNq3wbyyz_fxj)]
+실습 1강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-gY9WHIAG5CBD2euxbKPNq3wbyyz_fxj)
 
-실습 2강: [![Open In Colab](https://colab.research.google.com/drive/11mqMXT65dgYdZq_Nqo7DmGZeHwmz9_va)]
-
-
+실습 2강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11mqMXT65dgYdZq_Nqo7DmGZeHwmz9_va)
 
 ### 실습 계획표
 
