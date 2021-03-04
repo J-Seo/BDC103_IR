@@ -1,7 +1,9 @@
 # BDC103_IR
 This repository is practice for Big Data and Information Retrieval class.
 
-본 실습 자료는 **BDC103(00) 빅데이터와정보검색 강의 실습**을 위해 **고려대학교 자연어처리연구실 (NLP & AI Lab)**에서 제작했습니다.
+본 실습 자료는 **BDC103(00) 빅데이터와정보검색 강의 실습**을 위해 
+
+**고려대학교 자연어처리연구실 (NLP & AI Lab)** 에서 제작했습니다.
 
 ☠️ 학습 이외의 목적으로 무단 배포를 금지합니다. ☠️
 
