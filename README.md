@@ -9,7 +9,7 @@ This repository is practice for Big Data and Information Retrieval class.
 @InclassProject{
 year={2021},
 title={BDC103_IR},
-author={Jaehyung Seo, and Heuiseok Lim}
+author={Jaehyung Seo,and Heuiseok Lim}
 email={wolhalang@gmail.com}}
 ```
 ### Colab으로 열기
