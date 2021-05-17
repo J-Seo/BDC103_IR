@@ -20,7 +20,7 @@ email={wolhalang@gmail.com}}
 
 실습 2강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11mqMXT65dgYdZq_Nqo7DmGZeHwmz9_va)
 
-실습 3강: 추후 공개
+실습 3강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EebE_t1s3hS6_oAvPH5DiOsLq3WlTTRZ?usp=sharing)
 
 실습 4강: 추후 공개
 
@@ -39,8 +39,7 @@ email={wolhalang@gmail.com}}
 |ElasticSearch 색인화 및 정보 검색 실습|
 |중간고사|
 |**실습 3. 정보 검색 기반 질의 응답**|
-|사전 훈련된 BERT로 SQUAD 1.0 문제 해결 (지문 존재)|
-|사전 훈련된 BERT로 SQUAD 1.0 문제 해결 (지문 검색)|
+|사전 훈련된 BERT로 SQUAD 1.1 문제 해결|
 |**실습 4. 텀 프로젝트 가이드**|
 |Kaggle 사용법 및 리더보드 등록 방법|
 |텀 프로젝트 진행 방법 설명|
