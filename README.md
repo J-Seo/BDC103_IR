@@ -14,6 +14,9 @@ title={BDC103_IR},
 author={Jaehyung Seo,and Heuiseok Lim}
 email={wolhalang@gmail.com}}
 ```
+### 기말 텀 프로젝트 링크
+https://www.kaggle.com/c/bdc103-final
+
 ### Colab으로 열기
 
 실습 1강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-gY9WHIAG5CBD2euxbKPNq3wbyyz_fxj)
