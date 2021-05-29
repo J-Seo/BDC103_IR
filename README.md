@@ -22,7 +22,7 @@ email={wolhalang@gmail.com}}
 
 실습 3강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EebE_t1s3hS6_oAvPH5DiOsLq3WlTTRZ?usp=sharing)
 
-실습 4강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eGkEZG5FFGMx69g43fIJbUKcfjyoDkP_/view?usp=sharing)
+실습 4강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eGkEZG5FFGMx69g43fIJbUKcfjyoDkP_)
 
 ### 실습 계획표
 
