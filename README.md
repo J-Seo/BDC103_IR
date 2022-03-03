@@ -9,7 +9,7 @@ This repository is practice for Big Data and Information Retrieval class.
 
 ```
 @InclassProject{
-year={2021},
+year={2022},
 title={BDC103_IR},
 author={Jaehyung Seo,and Heuiseok Lim}
 email={wolhalang@gmail.com}}
@@ -31,19 +31,22 @@ https://www.kaggle.com/c/bdc103-final
 
 |**실습 계획표(예정)**|
 |:----------------:|
+
 |**실습 1. Python 기본 문법 및 Colab 사용법**|
 |Colab Notebook에 대한 간단한 사용법|
 |Python 입출력, 사칙연산, 조건문, 루프문|
 |Colab과 Google Drive 연동 방법|
-|**실습 2. 정보 검색**|
+
+|**실습 2. 전통적인 정보 검색**|
 |TF-IDF 실습|
 |BM25 실습|
 |ElasticSearch 검색 엔진 + Python 연동|
 |ElasticSearch 색인화 및 정보 검색 실습|
 |중간고사|
-|**실습 3. 정보 검색 기반 질의 응답**|
+
+|**실습 3. 제작 중 - 딥러닝 기반의 정보 검색**|
+|딥러닝 기반의 정보 검색 방법|
+
+|**실습 4. 제작 중 - 질의 응답 기반의 정보 검색**|
 |사전 훈련된 BERT로 SQUAD 1.1 문제 해결|
-|**실습 4. 텀 프로젝트 가이드**|
-|Kaggle 사용법 및 리더보드 등록 방법|
-|텀 프로젝트 진행 방법 설명|
 
